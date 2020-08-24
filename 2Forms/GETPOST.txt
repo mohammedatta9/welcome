@@ -1,0 +1,7 @@
+
+Get                                     Post
+---------------------------------------------------------------
+URL                                     Form Data (Body)
+Limited (255 letter max)                Unlimited (4GB
+Fast                                    Less than get
+used in search engine or item details   in regisration login, add,edit items
